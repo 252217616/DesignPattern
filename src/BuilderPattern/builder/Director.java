@@ -2,7 +2,6 @@ package BuilderPattern.builder;
 
 import BuilderPattern.bean.BMWModel;
 import BuilderPattern.bean.BenzModel;
-import BuilderPattern.bean.CarModel;
 
 import java.util.ArrayList;
 
