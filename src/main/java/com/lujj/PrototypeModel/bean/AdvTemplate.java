@@ -8,7 +8,7 @@ import lombok.Data;
 @Data
 public class AdvTemplate {
 
-    private String advSubJect;
-    private String advContext;
+    private String advSubJect = "${bank}国庆信用卡抽奖活动";
+    private String advContext = "国庆授奖活动通知：只要刷卡就送100万！";
 
 }

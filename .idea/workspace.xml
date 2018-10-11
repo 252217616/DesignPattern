@@ -3,40 +3,45 @@
   <component name="ChangeListManager">
     <list default="true" id="254ac3c5-5774-4c69-8299-64251a51a372" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/bean/BMWModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/bean/BMWModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/bean/BenzModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/bean/BenzModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/bean/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/bean/CarModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/builder/BMWBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/BMWBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/builder/BenzBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/BenzBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/CarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuilderPattern/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/NvWa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/NvWa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/bean/BlackHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/bean/BlackHuman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/bean/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/bean/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/bean/WhiteHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/bean/WhiteHuman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/bean/YellowHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/bean/YellowHuman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/service/AbstracHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/service/AbstracHumanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/service/HumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/service/HumanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/dynamic/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/dynamic/GamePlayDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/GamePlayDynamicProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/dynamic/GamePlayIH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/GamePlayIH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/dynamic/GamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/GamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/dynamic/IGamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/IGamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/normal/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/normal/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/normal/GamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/normal/GamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/normal/GamePlayerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/normal/GamePlayerProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/normal/IGamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/normal/IGamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplatePattern/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/CarModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplatePattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemplatePattern/HummerH1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/HummerH1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/singleton/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/SingletonExtend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/singleton/SingletonExtend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/BMWModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/BenzModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/CarModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/BMWBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/BenzBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/CarBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/NvWa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/BlackHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/WhiteHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/YellowHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/service/AbstracHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/service/HumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayDynamicProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayIH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/IGamePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/GamePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/GamePlayerProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/IGamePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/CarModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/HummerH1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton$SingletonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/SingletonExtend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,24 +54,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="377">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="323">
+              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
               <folding>
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonExtend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/singleton/SingletonExtend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -75,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -132,7 +145,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/service/AbstracHumanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/service/HumanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/FactoryPattern/NvWa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/GamePlayDynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/GamePlayer.java" />
@@ -149,10 +161,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/HummerH1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/AdvTemplate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" />
       </list>
     </option>
   </component>
@@ -269,6 +282,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lujj" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lujj" type="462c0819:PsiDirectoryNode" />
               <item name="TemplatePattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -286,8 +308,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/svnProject/loan/serviceNew/branches/loan_manager_service_lianght" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26216814" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -311,7 +333,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lujj.PrototypeModel.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lujj.PrototypeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.lujj.singleton.Client" />
       <module name="DesignPattern" />
@@ -396,11 +428,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.NvWa" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +449,12 @@
       <workItem from="1539138142633" duration="3952000" />
       <workItem from="1539148643555" duration="11824000" />
       <workItem from="1539167217147" duration="1338000" />
-      <workItem from="1539223614979" duration="6037000" />
+      <workItem from="1539223614979" duration="9614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23151000" />
+    <option name="totallyTimeSpent" value="26728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -430,7 +462,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -438,11 +470,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -674,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/ProxyPattern/dynamic/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -764,13 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/singleton/SingletonExtend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/TemplatePattern/CarModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-23">
@@ -803,27 +821,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/singleton/SingletonExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/java/jdk/jdk1.8.0_151/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="377">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
           <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -893,6 +934,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.16.22</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
