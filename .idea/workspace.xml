@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="254ac3c5-5774-4c69-8299-64251a51a372" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/BMWModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/BenzModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/bean/CarModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/BMWBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/BenzBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/CarBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/BuilderPattern/builder/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/NvWa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/BlackHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/WhiteHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/bean/YellowHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/service/AbstracHumanFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryPattern/service/HumanFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayDynamicProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayIH.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/GamePlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/dynamic/IGamePlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/GamePlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/GamePlayerProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/ProxyPattern/normal/IGamePlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/CarModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/TemplatePattern/HummerH1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton$SingletonBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/singleton/SingletonExtend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" afterDir="false" />
-    </list>
+    <list default="true" id="254ac3c5-5774-4c69-8299-64251a51a372" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,41 +13,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java">
+      <file leaf-file-name="AbstractMediator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractMediator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+            <state relative-caret-position="378">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mediator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Mediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonExtend.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/singleton/SingletonExtend.java">
+      <file leaf-file-name="Purchase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Purchase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+            <state relative-caret-position="351">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdvTemplate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/AdvTemplate.java">
+      <file leaf-file-name="AbstractColleague.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractColleague.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="216">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sale.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Sale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,13 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BuilderPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/BuilderPattern/builder/Director.java" />
-        <option value="$PROJECT_DIR$/src/ProxyPattern/GamePlayer.java" />
-        <option value="$PROJECT_DIR$/src/ProxyPattern/GamePlayerProxy.java" />
-        <option value="$PROJECT_DIR$/src/ProxyPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/ProxyPattern/normal/Client.java" />
-        <option value="$PROJECT_DIR$/src/ProxyPattern/IGamePlayer.java" />
         <option value="$PROJECT_DIR$/src/ProxyPattern/dynamic/IGamePlayer.java" />
         <option value="$PROJECT_DIR$/src/ProxyPattern/normal/IGamePlayer.java" />
         <option value="$PROJECT_DIR$/src/ProxyPattern/dynamic/GamePlayer.java" />
@@ -166,6 +168,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/bean/Mail.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractColleague.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Stock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Sale.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractMediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Purchase.java" />
       </list>
     </option>
   </component>
@@ -207,8 +216,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-178" />
-    <option name="y" value="147" />
+    <option name="x" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -263,7 +271,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lujj" type="462c0819:PsiDirectoryNode" />
-              <item name="PrototypeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -272,26 +280,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lujj" type="462c0819:PsiDirectoryNode" />
-              <item name="PrototypeModel" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lujj" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lujj" type="462c0819:PsiDirectoryNode" />
-              <item name="TemplatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +296,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/svnProject/loan/serviceNew/branches/loan_manager_service_lianght" />
+    <property name="last_opened_file_path" value="D:/project/demo01" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26216814" />
@@ -333,13 +323,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lujj.PrototypeModel.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lujj.PrototypeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lujj.MediatorPattern.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lujj.MediatorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,11 +428,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -449,16 +449,15 @@
       <workItem from="1539138142633" duration="3952000" />
       <workItem from="1539148643555" duration="11824000" />
       <workItem from="1539167217147" duration="1338000" />
-      <workItem from="1539223614979" duration="9614000" />
+      <workItem from="1539223614979" duration="17120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26728000" />
+    <option name="totallyTimeSpent" value="34234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -470,7 +469,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -502,46 +501,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/BuilderPattern/builder/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -861,10 +820,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/PrototypeModel/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        <state relative-caret-position="269">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Sale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/AbstractColleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lujj/MediatorPattern/service/Purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
