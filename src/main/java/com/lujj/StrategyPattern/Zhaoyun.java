@@ -21,6 +21,5 @@ public class Zhaoyun {
         System.out.println("孙权的小兵追来了，开第三个");
         context = new Context(new BlockEnemy());
         context.operate();
-
     }
 }
