@@ -2,6 +2,10 @@ package com.lujj.MediatorPattern;
 
 import com.lujj.MediatorPattern.service.*;
 
+
+/**
+ * 中介者模式
+ */
 public class Client {
 
     public static void main(String[] args) {

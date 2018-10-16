@@ -1,5 +1,8 @@
 package com.lujj.TemplatePattern;
 
+/**
+ * 模板模式
+ */
 public class Client {
     public static void main(String[] args) {
         CarModel hummer = new HummerH1();

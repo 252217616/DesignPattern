@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * 责任链模式
+ */
 public class Client {
 
     public static void main(String[] args) {

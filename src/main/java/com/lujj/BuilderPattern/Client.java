@@ -4,6 +4,9 @@ import com.lujj.BuilderPattern.bean.BMWModel;
 import com.lujj.BuilderPattern.bean.BenzModel;
 import com.lujj.BuilderPattern.builder.Director;
 
+/**
+ * 建造者模式
+ */
 public class Client {
     public static void main(String[] args) {
         Director director = new Director();

@@ -1,9 +1,10 @@
 package com.lujj.FacadePattern;
 
-import com.lujj.FacadePattern.service.ILetterProcess;
-import com.lujj.FacadePattern.service.LetterProcess;
 import com.lujj.FacadePattern.service.ModenPostOffice;
 
+/**
+ * 门面模式
+ */
 public class Client {
     public static void main(String[] args) {
         //创建一个处理信件的过程

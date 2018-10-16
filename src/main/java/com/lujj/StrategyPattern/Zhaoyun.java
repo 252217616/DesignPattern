@@ -5,6 +5,9 @@ import com.lujj.StrategyPattern.strategy.BlockEnemy;
 import com.lujj.StrategyPattern.strategy.Context;
 import com.lujj.StrategyPattern.strategy.GivenGreenLight;
 
+/**
+ * 策略模式
+ */
 public class Zhaoyun {
     //赵云出场了，根据诸葛亮的交代，依次3拆开妙计
     public static void main(String[] args) {
